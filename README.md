@@ -20,7 +20,7 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python"/></a>
   <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" alt="React"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a" alt="Node.js"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a" alt="Node.js"/></a>
   <a href="https://www.haskell.org/" target="_blank"><img src="https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=2bbc8a" alt="Haskell"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" alt="Docker"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" alt="Git"/></a>
