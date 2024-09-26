@@ -31,6 +31,10 @@
             font-size: 1.2em;
             margin-bottom: 1em;
         }
+        .typing {
+            font-weight: bold;
+            color: #4C5FD5;
+        }
         .social-links {
             margin-top: 20px;
         }
@@ -54,11 +58,55 @@
     <div class="container">
         <h1>Hello, I'm Ezequiel 👋</h1>
         <p>A passionate developer, focused on building clean and efficient code.</p>
-        <p>I love working with technologies like <strong>JavaScript</strong>, <strong>React</strong>, <strong>Python</strong>, and <strong>Node.js</strong>.</p>
+        <p>I love working with technologies like <span class="typing"></span>.</p>
         <div class="social-links">
             <a href="https://github.com/obezeq" target="_blank">GitHub</a>
         </div>
     </div>
     <footer>Made with ❤️ using GitHub Pages.</footer>
+
+    <script>
+        const words = ["JavaScript", "React", "Python", "Node.js"];
+        let i = 0;
+        let timer;
+
+        function typeWriter() {
+            let word = words[i].split("");
+            let loopTyping = function() {
+                if (word.length > 0) {
+                    document.querySelector(".typing").innerHTML += word.shift();
+                } else {
+                    deleteWord();
+                    return false;
+                }
+                timer = setTimeout(loopTyping, 150);
+            };
+            loopTyping();
+        }
+
+        function deleteWord() {
+            let word = words[i].split("");
+            let loopDeleting = function() {
+                if (word.length > 0) {
+                    word.pop();
+                    document.querySelector(".typing").innerHTML = word.join("");
+                } else {
+                    if (i < words.length - 1) {
+                        i++;
+                    } else {
+                        i = 0;
+                    }
+                    typeWriter();
+                    return false;
+                }
+                timer = setTimeout(loopDeleting, 100);
+            };
+            setTimeout(loopDeleting, 1000);  // Delay before starting to delete
+        }
+
+        document.addEventListener("DOMContentLoaded", function() {
+            typeWriter();
+        });
+    </script>
 </body>
 </html>
