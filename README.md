@@ -51,7 +51,7 @@
 ### 🎨 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Must-Know Dev Tools in 2024](/obezeq/blog/10-must-know-dev-tools-in-2024)
+- [10 Must-Know Dev Tools in 2024](https://obezeq.github.io/obezeq/blog/10-must-know-dev-tools-in-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
