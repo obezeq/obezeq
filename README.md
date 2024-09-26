@@ -38,11 +38,13 @@
 
 ---
 
-### 🚀 My Projects
+### 🌐 My Website
 
-- 🔥 [Project 1](https://github.com/YourUsername/Project1) - A brief description of what the project is about.
-- 🌟 [Project 2](https://github.com/YourUsername/Project2) - Another project that showcases your skills.
-- 🎯 [Project 3](https://github.com/YourUsername/Project3) - Your passion project!
+<p align="center">
+  <a href="https://obezeq.github.io/obezeq/" target="_blank">
+    <img src="https://img.shields.io/badge/My Website-0077B5?style=for-the-badge&logoColor=white" alt="My Website"/>
+  </a>
+  <a href="https://obezeq.github.io/obezeq/" target="_blank">
 
 ---
 
@@ -55,11 +57,3 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-### 🌐 My Website
-
-<p align="center">
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/My Website-0077B5?style=for-the-badge&logoColor=white" alt="My Website"/>
-  </a>
-  <a href="https://obezeq.github.io/obezeq/" target="_blank">
