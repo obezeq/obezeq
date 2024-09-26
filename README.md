@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" alt="React"/>
   <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=2bbc8a" alt="Haskell"/>
   <img src="https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a" alt="AWS"/>
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" alt="Git"/>
   <img src="https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" alt="VS Code"/>
 </p>
@@ -32,8 +32,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ezequiel&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezequiel&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://obezeq.github.io/obezeq/" target="_blank">
-    <img src="https://img.shields.io/badge/My Website-0077B5?style=for-the-badge&logoColor=white" alt="My Website"/>
+    <img src="https://img.shields.io/badge/My Website-0077B5?style=for-the-badge&logoColor=white" alt="https://obezeq.github.io/obezeq/"/>
   </a>
   <a href="https://obezeq.github.io/obezeq/" target="_blank">
 
