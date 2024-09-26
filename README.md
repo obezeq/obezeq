@@ -7,10 +7,9 @@
 ---
 
 ### 🌟 About Me
-
+- 💬 "I only know that I know nothing"
+- 🚀 I love reading, swimming and making money
 - 🔭 I’m currently working on **changing the world!**
-- 🌱 I’m currently learning **Blockchain Dev**
-- 💬 Ask me about **how to solve anything**
 - ⚡ Fun fact: **I prefer tea instead of coffee**
 
 ---
@@ -57,10 +56,10 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 My Website
 
 <p align="center">
   <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/My+Website-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Website"/>
   </a>
-  <a href="https://twitter.com/YourTwitter" target="_blank">
+  <a href="https://obezeq.github.io/obezeq/" target="_blank">
