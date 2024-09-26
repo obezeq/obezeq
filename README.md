@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]!</h1>
+<h1 align="center">Hi there 👋, I'm Ezequiel!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Enthusiast;Tech+Explorer;Lifelong+Learner" alt="Typing SVG" />
@@ -8,12 +8,10 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Technology or Skill]**
-- 👯 I’m looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your Expertise]**
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: **[A Cool Fact About You]**
+- 🔭 I’m currently working on **changing the world!**
+- 🌱 I’m currently learning **Blockchain Dev**
+- 💬 Ask me about **how to solve anything**
+- ⚡ Fun fact: **I prefer tea instead of coffee**
 
 ---
 
