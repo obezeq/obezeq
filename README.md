@@ -51,9 +51,7 @@
 ### 🎨 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Improved My Coding Workflow](#)
-- [Understanding Async/Await in JavaScript](#)
-- [10 Must-Know Dev Tools in 2024](#)
+- [10 Must-Know Dev Tools in 2024](/obezeq/blog/10-must-know-dev-tools-in-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
