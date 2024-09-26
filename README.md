@@ -60,6 +60,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/My+Website-0077B5?style=for-the-badge&logoColor=white" alt="My Website"/>
+    <img src="https://img.shields.io/badge/My Website-0077B5?style=for-the-badge&logoColor=white" alt="My Website"/>
   </a>
   <a href="https://obezeq.github.io/obezeq/" target="_blank">
